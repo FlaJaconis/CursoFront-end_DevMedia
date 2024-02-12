@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    background-color: #f4f0e5;
+}
+.secao{
+    text-align: center;
+    font-family: Tahoma, sans-serif;
+    width: 700px;
+    margin: 20px auto;
+}
+
+
+#menu{
+    border-bottom: 1px solid #de8e37;
+    padding-bottom: 30px;
+}
+#menu img{
+  width: 200px;
+}
+a{
+    font-size: 20px;
+    margin: 0 10px;
+    color: #542f0C;
+}
+
+h1{
+    font-size: 28px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+}
+#sobre h2{
+    color: #de8e37;
+    font-weight: normal;
+    margin-top: 10px;
+}
+
+#sobre img{
+    width: 700px;
+}
+
+#produtos{
+    color: #ffffff;
+    background-color: #de8e37;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+    
+}
+#produtos h3{
+    font-size: 24px;
+    margin: 0px auto 20px auto;
+}
+
+#produtos h4{
+    font-size: 20px;
+    margin: 5px;
+}
+#produtos p{
+    width: 500px;
+    line-height: 30px;
+    margin: 0 auto;
+    padding: 0;
+    
+}
+#produtos img{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: 500px;
+
+}
+
+#contato{
+    margin: 20px auto;
+    line-height: 20px;
+    margin: 0;
+}
+
+.contato-border{
+    border: 5px dotted #de8e37;
+    padding: 0;
+}
+span{
+    font-weight: bold;
+}
